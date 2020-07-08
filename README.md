@@ -6,7 +6,7 @@ Salesforce integrated Python web crawler example
 
 # Blog Post
 
-Please visit [Salesforce REST API](https://www.google.com) blog post for a deeper explanation of this repo.
+Please visit [HEROKU AUTOMATION AND SALESFORCE](https://chicagocloudgroup.com/heroku-automation-and-salesforce/) blog post for a deeper explanation of this repo.
 
 Please feel free to fork and/or download this repo for your own uses.
 
